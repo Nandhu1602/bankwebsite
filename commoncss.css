@@ -13,6 +13,10 @@ body{
 	padding: 10px;
 	color: yellowgreen;
 	}
+:link,a:hover{
+	font-size: large;
+
+}
 
 .logo img{
 	width: 10rem;
